@@ -1,46 +1,35 @@
-## Hi there 👋
+<center><h2>Sejam Bem-Vindos!</h2></center>
 
-<!-- Cabeçalhos -->
+![Gif Programador](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
-# Titulo 1
-## Titulo 2
-### Titulo 3
-#### Titulo 4
-##### Titulo 5
-###### Titulo 6
+🤓 Prazer, me chamado Robinson Dahrog Lukencenkol.
 
-*italico* ou _italico_
+📚 Recém formado em Ciências da Computação, procurando vagas no mercado.
 
-**negrito** ou __negrito__
+📭 [Linkedin](https://www.linkedin.com/in/robinson-d-895866106/)
 
-___negrito e italico___
-
-- Lista 1
-- Lista 2
-  - Sublista
-
-1. Lista 1
-2. Lista 2
-   1. Sublista
-
-[timão](https://www.camarotedotorcedor.com.br/wp-content/uploads/2021/10/D_NQ_NP_751525-MLB47044294314_082021-O.jpg)
-
-![Texto imagem](https://www.camarotedotorcedor.com.br/wp-content/uploads/2021/10/D_NQ_NP_751525-MLB47044294314_082021-O.jpg)
-
-`crase`
-
-`system.out.println();`
-
-> Texto da Citação
+<center><h2> Minhas Tecnologias </h2></center>
 
 
-| Cabeçalho 1 | Cabeçalho 2 |
-|-------------|-------------|
-| Texto 1     | Texto 2     |
-| Texto 3     | Texto 4     |
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+width="100">          
 
-- [X] Tarefa 1 <br>
-- [] Tarefa 2 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"
+width="100">      
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
+width="100">   
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+width="100">
+
+------------------------------
+| Cursos | Horas | Certificados |
+|--------|-------|--------------|
+| Formação em Lógica de Programação | 41hrs | [Certificado](https://hermes.dio.me/certificates/BTDZEY2T.pdf)
+| Formaçao em Git e GitHub | 10hrs | [Em andamento]
+
 
 <!--
 **robinsondl/robinsondl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
