@@ -2,13 +2,15 @@
 
 <!-- Cabeçalhos -->
 
-# Títulos 1
-## Títulos 2
-### Títulos 3
-#### Títulos 4
-##### Títulos 5
-###### Títulos 6
+*italico* ou _italico_
 
+**negrito"" ou __negrito__
+
+___negrito e italico___
+
+- Lista 1
+- Lista 2
+  - Sublista
 
 
 <!--
