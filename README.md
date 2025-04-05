@@ -12,26 +12,23 @@
 | Cursos | Horas | Certificados |
 |--------|-------|--------------|
 | Formação em Lógica de Programação | 41hrs | [Certificado](https://hermes.dio.me/certificates/BTDZEY2T.pdf)
-| Formaçao em Git e GitHub | 10hrs | [Em andamento]
-| Formaçao em HTML Web Developer | 21hrs | [Em andamento]
-| Formaçao em CSS Web Developer | 43hrs | [Em andamento]
-| Formaçao em JavaScript Developer | 39hrs | [Em andamento]
+| Formação em Git e GitHub | 10hrs | [Em andamento]
+| Formação em HTML Web Developer | 21hrs | [Em andamento]
+| Formação em CSS Web Developer | 43hrs | [Em andamento]
+| Formação em JavaScript Developer | 39hrs | [Em andamento]
 
 --------------------------------------
 <center><h2> Minhas Tecnologias </h2></center>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-width="100"/>          
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100">          
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"
-width="100"/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="100">      
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
-width="100"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="100">   
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-width="100"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100">
+</p>
 ---------------------------------
 
 ![Robinson Dahrog GitHub stats](https://github-readme-stats.vercel.app/api?username=robinsondl&show_icons=true&theme=radical)
