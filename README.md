@@ -4,7 +4,7 @@
 
 *italico* ou _italico_
 
-**negrito"" ou __negrito__
+**negrito** ou __negrito__
 
 ___negrito e italico___
 
