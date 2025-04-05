@@ -8,9 +8,13 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Estou a procura de um emprego como programador, para isso, tenho estudado muito em meu tempo livre! <br />
 
+<h3>Contact Me</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/robinson-d-895866106/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
-</div>
+<p>
+<a href="mailto:robinsondahrog00@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/robinson-d-895866106/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 
 ----------------------------------------
 | Cursos | Horas | Certificados |
