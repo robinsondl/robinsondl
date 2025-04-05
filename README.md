@@ -2,9 +2,11 @@
 
 ![Gif Programador](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
 
-🤓 Prazer, me chamado Robinson Dahrog Lukencenkol.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Prazer, me chamo Robinson Dahrog Lukencenkol, sou da ZL de São Paulo. <br />
 
-📚 Recém formado em Ciências da Computação, procurando vagas no mercado.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Sou récem formado em Ciências da Computação.<br />
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Estou a procura de um emprego como programador, para isso, tenho estudado muito em meu tempo livre! <br />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/robinson-d-895866106/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
