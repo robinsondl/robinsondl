@@ -2,6 +2,13 @@
 
 <!-- Cabeçalhos -->
 
+# Titulo 1
+## Titulo 2
+### Titulo 3
+#### Titulo 4
+##### Titulo 5
+###### Titulo 6
+
 *italico* ou _italico_
 
 **negrito** ou __negrito__
@@ -20,6 +27,20 @@ ___negrito e italico___
 
 ![Texto imagem](https://www.camarotedotorcedor.com.br/wp-content/uploads/2021/10/D_NQ_NP_751525-MLB47044294314_082021-O.jpg)
 
+`crase`
+
+`system.out.println();`
+
+> Texto da Citação
+
+
+| Cabeçalho 1 | Cabeçalho 2 |
+|-------------|-------------|
+| Texto 1     | Texto 2     |
+| Texto 3     | Texto 4     |
+
+- [X] Tarefa 1 <br>
+- [] Tarefa 2 
 
 <!--
 **robinsondl/robinsondl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
