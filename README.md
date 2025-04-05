@@ -6,7 +6,9 @@
 
 📚 Recém formado em Ciências da Computação, procurando vagas no mercado.
 
-📭 [Linkedin](https://www.linkedin.com/in/robinson-d-895866106/)
+<div align="left">
+  <a href="www.linkedin.com/in/robinson-d-895866106" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+</div>
 
 ----------------------------------------
 | Cursos | Horas | Certificados |
