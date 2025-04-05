@@ -8,40 +8,26 @@
 
 📭 [Linkedin](https://www.linkedin.com/in/robinson-d-895866106/)
 
-<center><h2> Minhas Tecnologias </h2></center>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-width="100">          
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"
-width="100">      
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
-width="100">   
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
-width="100">
-
-------------------------------
+----------------------------------------
 | Cursos | Horas | Certificados |
 |--------|-------|--------------|
 | Formação em Lógica de Programação | 41hrs | [Certificado](https://hermes.dio.me/certificates/BTDZEY2T.pdf)
 | Formaçao em Git e GitHub | 10hrs | [Em andamento]
+--------------------------------------
+<center><h2> Minhas Tecnologias </h2></center>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+width="100"/>          
 
-<!--
-**robinsondl/robinsondl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"
+width="100"/>      
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"
+width="100"/>   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+width="100"/>
+
+---------------------------------
+
+![Robinson Dahrog GitHub stats](https://github-readme-stats.vercel.app/api?username=robinsondl&show_icons=true&theme=radical)
