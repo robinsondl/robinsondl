@@ -31,6 +31,10 @@
 </p>
 
 
-![Robinson Dahrog GitHub stats](https://github-readme-stats.vercel.app/api?username=robinsondl&show_icons=true&theme=radical)
-
-<img loading="lazy" height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=robinsondl&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=robinsondl&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinsondl&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
