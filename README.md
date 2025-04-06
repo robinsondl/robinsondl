@@ -20,7 +20,7 @@
 | Cursos | Horas | Certificados |
 |--------|-------|--------------|
 | Formação em Lógica de Programação | 41hrs | [Certificado](https://hermes.dio.me/certificates/BTDZEY2T.pdf)
-| Formação em Git e GitHub | 10hrs | [Em andamento]
+| Formação em Git e GitHub | 10hrs | [Certificado](https://hermes.dio.me/certificates/CMEQBH3Z.pdf)
 | Formação em HTML Web Developer | 21hrs | [Em andamento]
 | Formação em CSS Web Developer | 43hrs | [Em andamento]
 | Formação em JavaScript Developer | 39hrs | [Em andamento]
